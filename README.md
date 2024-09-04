@@ -1,6 +1,3 @@
-### Repository Title:
-Deep Learning-Based Encrypted VPN Traffic Classifier
-
 ### Description:
 This project focuses on classifying VPN traffic using a deep learning-based approach by converting network traffic into packet block images. The classification task involves detecting different types of encrypted VPN traffic, such as VOIP, Video, File Transfer, Chat, and Browsing.
 
